@@ -2,8 +2,9 @@
   "name": "ranheepad2",
   "version": "0.0.1",
   "description": "Launchpad toy",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
