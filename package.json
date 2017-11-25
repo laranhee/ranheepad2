@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/laranhee/ranheepad2/issues"
   },
-  "homepage": "https://github.com/laranhee/ranheepad2#readme"
+  "homepage": "https://github.com/laranhee/ranheepad2#readme",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
 }
